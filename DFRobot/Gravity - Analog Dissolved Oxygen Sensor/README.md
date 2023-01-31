@@ -30,3 +30,7 @@
 | 2	| +	| VCC (3.3~5.5V)
 | 3	| -	| GND
 | 4	| BNC	| Conector do Cabo da Sonda
+
+
+
+[Confira o tutorial aqui](https://www.dfrobot.com/wiki/index.php/Gravity:_Analog_Dissolved_Oxygen_Sensor_SKU:SEN0237)

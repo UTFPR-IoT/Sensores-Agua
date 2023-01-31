@@ -1,5 +1,6 @@
-[Stainless Steel Temperature Probe](https://www.vernier.com/product/stainless-steel-temperature-probe/)
-# Especificações
+# [Stainless Steel Temperature Probe User Manual](https://www.vernier.com/files/manuals/tmp-bta/tmp-bta.pdf)
+
+## Especificações
 - Faixa de temperatura: –40 a 135°C (–40 a 275°F)
 - Temperatura máxima que o sensor pode tolerar sem danos: 150°C
 - Resolução Típica:
@@ -19,6 +20,6 @@
   - Alça da sonda: comprimento 5,0  cm , diâmetro 1,25  cm
   
   
-  # Imagens 
+ ## Imagens 
   <img src="https://www.vernier.com/wp-content/uploads/2019/11/product.tmp-bta._hero.001-scaled.jpg" alt="drawing" width="600"/>
 

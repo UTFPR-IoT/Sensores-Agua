@@ -1,3 +1,6 @@
+[Confira o tutorial aqui](https://www.dfrobot.com/wiki/index.php/Gravity:_Analog_Dissolved_Oxygen_Sensor_SKU:SEN0237)
+
+
 ## Especificação
 - Sonda de Oxigênio Dissolvido
   - Tipo: Sonda Galvânica
@@ -32,5 +35,9 @@
 | 4	| BNC	| Conector do Cabo da Sonda
 
 
+## Diagrama de conexão
+Quando a sonda é preenchida com solução de NaOH, ela precisa ser calibrada. Antes da calibração, conecte a sonda conforme mostrado no diagrama a seguir. Conecte a ponta de prova ao conector BNC na placa do conversor de sinal. Conecte a placa à entrada analógica da placa principal do Arduino.
 
-[Confira o tutorial aqui](https://www.dfrobot.com/wiki/index.php/Gravity:_Analog_Dissolved_Oxygen_Sensor_SKU:SEN0237)
+<img src="https://user-images.githubusercontent.com/37712508/215746679-cbc7919f-2d47-4e8b-b1d7-e864aa346135.png" alt="drawing" width="600"/>
+
+

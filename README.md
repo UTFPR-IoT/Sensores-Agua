@@ -19,9 +19,9 @@
 
 
 ## [Vernier](https://github.com/UTFPR-IoT/Sensores-Agua/blob/main/Vernier/README.md)
-- Arduino Interface Shield
+- [Arduino Interface Shield](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/Arduino%20Interface%20Shield)
 - ORP Sensor
-- pH Sensor
+- [pH Sensor](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/pH%20Sensor)
 - Temperature Probe
 - Flow Rate Sensor
 

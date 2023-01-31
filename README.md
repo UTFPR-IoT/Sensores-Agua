@@ -1,6 +1,9 @@
 # Sensores-Agua
 
 ## [Atlas-Scientific](https://github.com/UTFPR-IoT/Sensores-Agua/blob/main/Atlas-scientific/README.md)
+- [Code Gravity Analog](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Atlas-scientific/Gravity%20Analog)
+- [Code EZO](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Atlas-scientific/EZO)
+
 - ENV-20 DO
 - ENV-20 pH
 - ENV-20 ORP

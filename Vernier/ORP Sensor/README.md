@@ -9,6 +9,6 @@ O Sensor de Potencial de Oxidação-Redução (ORP) mede a capacidade de uma sol
 - Faixa de potencial redox: -450 a +1100 mV
 - Elemento ORP: banda de platina 99% pura selada em uma haste de vidro
 - Faixa de temperatura:
-- 	0-60ºC
-- 	diâmetro externo de 12 mm
-- 	Impedância: ~20 kΩ a 25ºC
+  - 0-60ºC
+  - diâmetro externo de 12 mm
+  - Impedância: ~20 kΩ a 25ºC

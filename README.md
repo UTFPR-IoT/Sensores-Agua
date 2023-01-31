@@ -22,7 +22,7 @@
 - [Arduino Interface Shield](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/Arduino%20Interface%20Shield)
 - ORP Sensor
 - [pH Sensor](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/pH%20Sensor)
-- Temperature Probe
+- [Temperature Probe](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/Temperature%20Probe)
 - Flow Rate Sensor
 
 

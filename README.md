@@ -4,13 +4,13 @@
 - [Code Gravity Analog](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Atlas-scientific/Gravity%20Analog)
 - [Code EZO](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Atlas-scientific/EZO)
 
-- ENV-20 DO
-- ENV-20 pH
-- ENV-20 ORP
+- [ENV-20 DO](https://atlas-scientific.com/probes/mini-d-o-probe/)
+- [ENV-20 pH](https://atlas-scientific.com/probes/mini-ph-probe/)
+- [ENV-20 ORP](https://atlas-scientific.com/probes/mini-orp-probe/)
 
-- ENV-50 DO
-- ENV-50 pH
-- ENV-50 ORP
+- [ENV-50 DO](https://atlas-scientific.com/probes/industrial-dissolved-oxygen-probe/)
+- [ENV-50 pH](https://atlas-scientific.com/probes/industrial-ph-probe/)
+- [ENV-50 ORP](https://atlas-scientific.com/probes/industrial-orp-probe/)
 
 
 

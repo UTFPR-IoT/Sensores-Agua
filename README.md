@@ -26,7 +26,7 @@
 - ORP Sensor
 - [pH Sensor](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/pH%20Sensor)
 - [Temperature Probe](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/Temperature%20Probe)
-- Flow Rate Sensor
+- [Flow Rate Sensor](https://github.com/UTFPR-IoT/Sensores-Agua/tree/main/Vernier/Flow%20Rate%20Sensor)
 
 
 
